@@ -1,0 +1,38 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "00_Inbox/テンプレート",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "00_Inbox/実行スクリプト",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "01_Fleeting Note/日記",
+      "template": "00_Inbox/テンプレート/日記テンプレ(ver2).md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}

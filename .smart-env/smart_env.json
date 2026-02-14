@@ -1,0 +1,115 @@
+{
+  "is_obsidian_vault": true,
+  "smart_blocks": {
+    "embed_blocks": true,
+    "min_chars": 200
+  },
+  "smart_sources": {
+    "single_file_data_path": ".smart-env/smart_sources.json",
+    "min_chars": 120,
+    "embed_model": {
+      "adapter": "ollama",
+      "transformers": {
+        "legacy_transformers": false,
+        "model_key": "TaylorAI/bge-micro-v2"
+      },
+      "TaylorAI/bge-micro-v2": {},
+      "openai": {
+        "model_key": "text-embedding-3-small"
+      },
+      "text-embedding-3-small": {},
+      "ollama": {
+        "model_key": "hf.co/nomic-ai/nomic-embed-text-v2-moe-GGUF:F16",
+        "host": "http://localhost:11434"
+      },
+      "hf.co/nomic-ai/nomic-embed-text-v2-moe-GGUF:F16": {}
+    },
+    "excluded_headings": "",
+    "file_exclusions": "Untitled,500_Case/ExportBlock-e9a1b919-c7bd-47ce-85dc-f1a7c5384aed-Part-1/CREATIVE e914395e3ee94d15af9c58c9d58ca7ac/「ジップスクラブ®」誕生ストーリー、病院ユニフォームのドレスコードを変革した「羽織って着る」スクラブ bc336b0564594ec5a33b677f3c1ebab4/Untitled 1.png,500_Case/ExportBlock-e9a1b919-c7bd-47ce-85dc-f1a7c5384aed-Part-1/CREATIVE e914395e3ee94d15af9c58c9d58ca7ac/「ジップスクラブ®」誕生ストーリー、病院ユニフォームのドレスコードを変革した「羽織って着る」スクラブ bc336b0564594ec5a33b677f3c1ebab4/Untitled.png,01_Fleeting Note/500_Case/ExportBlock-e9a1b919-c7bd-47ce-85dc-f1a7c5384aed-Part-1/CREATIVE e914395e3ee94d15af9c58c9d58ca7ac/“情報”から“体験”への大転換に備えよ：水口哲也──特集「THE WORLD IN 2024」 2a5c5ed3fdd14800bb9f62dffe3f81eb.md,01_Fleeting Note/500_Case/ExportBlock-e9a1b919-c7bd-47ce-85dc-f1a7c5384aed-Part-1/CREATIVE e914395e3ee94d15af9c58c9d58ca7ac/おいしい料理の裏で「燃え尽き症候群」に悩むシェフたち。英米で支援団体が立ち上がった 556208128eb94bf692f0de8d11670228.md,01_Fleeting Note/500_Case/ExportBlock-e9a1b919-c7bd-47ce-85dc-f1a7c5384aed-Part-1/CREATIVE e914395e3ee94d15af9c58c9d58ca7ac/デジタルの環境負荷を減らす「ウェブ・サステナビリティ・ガイドライン」がいま必要な理由 65fd2f68f24d41ce98588cb3c6c8e689.md,01_Fleeting Note/500_Case/ExportBlock-e9a1b919-c7bd-47ce-85dc-f1a7c5384aed-Part-1/CREATIVE e914395e3ee94d15af9c58c9d58ca7ac/偏食の子たちが考えたメニューをプロが再現したら？ロンドンで生まれた「想像レストラン」 9d965a8f8b964f01adc9bfecb3a9eb40.md,01_Fleeting Note/500_Case/ExportBlock-e9a1b919-c7bd-47ce-85dc-f1a7c5384aed-Part-1/CREATIVE e914395e3ee94d15af9c58c9d58ca7ac/全日空61便ハイジャック事件～世紀末の航空事件と“神輿”になれなかった男の生い立ち 2ad92ded815c48a9853579d52fa4f098.md,01_Fleeting Note/500_Case/ExportBlock-e9a1b919-c7bd-47ce-85dc-f1a7c5384aed-Part-1/CREATIVE e914395e3ee94d15af9c58c9d58ca7ac/女子スポーツがインクルーシブな社会の実現をリードする──特集「THE WORLD IN 2024」 37906d222e914ff296e8b701721c2673.md,01_Fleeting Note/500_Case/ExportBlock-e9a1b919-c7bd-47ce-85dc-f1a7c5384aed-Part-1/CREATIVE e914395e3ee94d15af9c58c9d58ca7ac/子供のプライバシーと動画投稿「 Without Consent（エラからのメッセージ 同意なし）」 1d3e13d49d0f4ccfad248ed9bd66ef0f.md,01_Fleeting Note/500_Case/ExportBlock-e9a1b919-c7bd-47ce-85dc-f1a7c5384aed-Part-1/CREATIVE e914395e3ee94d15af9c58c9d58ca7ac/消費しなくてもいい街、ヘルシンキ。循環型社会を支える「フィンランドらしい」文化のあり方 1e3f5ae744f980459a7fdfb985eeeb45.md,01_Fleeting Note/500_Case/ExportBlock-e9a1b919-c7bd-47ce-85dc-f1a7c5384aed-Part-1/CREATIVE e914395e3ee94d15af9c58c9d58ca7ac/高齢者の孤立は認知症と死亡のリスクの上昇をまねく？ 1人暮らしだと影響は弱い ペットを飼っている高齢 78b2a897b3d141feadc24bbf4c7b1c13.md",
+    "folder_exclusions": ""
+  },
+  "ribbon_icons": {
+    "connections": true,
+    "random_note": false
+  },
+  "smart_view_filter": {
+    "render_markdown": false,
+    "show_full_path": false,
+    "exclude_blocks_from_source_connections": false,
+    "exclude_frontmatter_blocks": true,
+    "expanded_view": false,
+    "results_limit": "20"
+  },
+  "language": "en",
+  "new_user": true,
+  "re_import_wait_time": 13,
+  "smart_chat_threads": {
+    "chat_model": {
+      "adapter": "ollama",
+      "ollama": {
+        "model_key": "undefined",
+        "host": "http://localhost:11434",
+        "models": {
+          "gpt-oss:20b": {
+            "model_name": "gpt-oss:20b",
+            "id": "gpt-oss:20b",
+            "multimodal": false,
+            "max_input_tokens": 131072,
+            "can_use_tools": true
+          },
+          "nomic-embed-text:latest": {
+            "model_name": "nomic-embed-text:latest",
+            "id": "nomic-embed-text:latest",
+            "multimodal": false,
+            "max_input_tokens": 2048,
+            "can_use_tools": true
+          },
+          "hf.co/nomic-ai/nomic-embed-text-v2-moe-GGUF:F16": {
+            "model_name": "hf.co/nomic-ai/nomic-embed-text-v2-moe-GGUF:F16",
+            "id": "hf.co/nomic-ai/nomic-embed-text-v2-moe-GGUF:F16",
+            "multimodal": false,
+            "max_input_tokens": 512,
+            "can_use_tools": true
+          }
+        }
+      }
+    },
+    "active_thread_key": "Untitled Chat 2025-08-10 17-02-20",
+    "system_prompt": "",
+    "detect_self_referential": true,
+    "review_context": true,
+    "stream": true,
+    "language": "en",
+    "modifier_key_to_send": "shift",
+    "use_tool_calls": true
+  },
+  "smart_notices": {
+    "muted": {
+      "embedding_complete": true,
+      "new_version_available": true
+    }
+  },
+  "version": "",
+  "smart_completions": {},
+  "smart_contexts": {
+    "link_depth": 0,
+    "inlinks": false,
+    "follow_links_in_excluded": true,
+    "excluded_headings": [],
+    "max_len": 0,
+    "templates": {
+      "0": {
+        "before": "<context_primary path=\"{{ITEM_PATH}}\" mtime=\"{{ITEM_TIME_AGO}}\">",
+        "after": "</context_primary>"
+      },
+      "1": {
+        "before": "<context_linked path=\"{{ITEM_PATH}}\" mtime=\"{{ITEM_TIME_AGO}}\">",
+        "after": "</context_linked>"
+      },
+      "-1": {
+        "before": "<context>\n<file_tree>\n{{FILE_TREE}}\n</file_tree>",
+        "after": "</context>"
+      }
+    }
+  }
+}

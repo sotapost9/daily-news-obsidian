@@ -1,0 +1,23 @@
+{
+  "noteFolderPath": "01_Fleeting Note/日記",
+  "vaultId": "sosoyamachu",
+  "lineUserId": "U7bb8f46e17da568ff729d7552cc38011",
+  "autoSync": true,
+  "syncInterval": 1,
+  "syncOnStartup": true,
+  "organizeByDate": false,
+  "fileNameTemplate": "{date}-{messageId}",
+  "e2eeEnabled": true,
+  "groupMessagesByDate": true,
+  "groupedMessageTemplate": "{time}: {text}",
+  "groupedFrontmatterTemplate": "source: LINE\ndate: {date}",
+  "groupedFileNameTemplate": "{date}",
+  "encryptionKeys": {
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2WDF+kYDbTmZn9qi3Llm\nDCtVphQ9JL2spR6spL3Vzi+u/ghI+EUlkLaesF8lhW2Yz3xB4SzNq5FSV55DAgB5\nsFGrtyenigrPkqFUtpMxVHDlPYT7MhR5dXqvJrZHXAMl1gXIo4Mfsc3VYU63hTkM\nPaZxqavMAbbmmHn142QVBYpVcQH1+dz2tdQPknx5xjkh0Ph1km6/ze7Az64dUtPM\n07Y0bYWDv8b7f/kK3kXmO/+pft0hf0McZU4Ya3/ILg69LNGEMZsp4zkwM8QvWDEL\nG2LmR++rEiLnWUkxMb0AVR5cIF8R1ZI0dQgcs5NCAsQBJwPPmswfbLOw40oMFtwd\nOwIDAQAB\n-----END PUBLIC KEY-----",
+    "encryptedPrivateKey": "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",
+    "deviceId": "Hnlheg9NDOaMMEJAOULrYVZZY7DuxwcqEFtkiZbKDI0=",
+    "keyId": "e621a2dc-7418-4cde-ae40-cd032426c479",
+    "createdAt": 1768638002612,
+    "salt": "bl54ub92FYqSBpLsAXZaJA=="
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"01_Fleeting Note/SD・BD\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6091802
+      }
+    },
+    {
+      "query": "path:\"02_Literature Note/SD・BD\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6157337
+      }
+    },
+    {
+      "query": "path:\"03_Permanent Note/SD・BD\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6157337
+      }
+    },
+    {
+      "query": "path:\"04_Structure Note/SD・BD\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"02_Literature Note/ロジカルシンキング\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12779755
+      }
+    },
+    {
+      "query": "path:\"01_Fleeting Note/ロジカルシンキング\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12780011
+      }
+    },
+    {
+      "query": "path:\"03_Permanent Note/ロジカルシンキング\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12780011
+      }
+    },
+    {
+      "query": "path:\"04_Structure Note/ロジカルシンキング\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12780011
+      }
+    },
+    {
+      "query": "path:06_PJ  ",
+      "color": {
+        "a": 1,
+        "rgb": 7012352
+      }
+    },
+    {
+      "query": "path:\"01_Fleeting Note/UnD運営\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14472452
+      }
+    },
+    {
+      "query": "path:\"02_Literature Note/UnD\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14472451
+      }
+    },
+    {
+      "query": "path:\"03_Permanent Note/UnD\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14472451
+      }
+    },
+    {
+      "query": "path:\"04_Structure Note/UnD運営\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14472451
+      }
+    },
+    {
+      "query": "path:\"01_Fleeting Note/哲学・思想\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14472451
+      }
+    },
+    {
+      "query": "path:\"02_Literature Note/ケア×SD事例\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14472451
+      }
+    },
+    {
+      "query": "path:\"02_Literature Note/DEI・Empathy・ケア\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14472451
+      }
+    },
+    {
+      "query": "path:\"03_Permanent Note/哲学・思想\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14472451
+      }
+    },
+    {
+      "query": "path:\"03_Permanent Note/UnD\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14472451
+      }
+    },
+    {
+      "query": "path:\"04_Structure Note/UnD運営\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14472451
+      }
+    },
+    {
+      "query": "path:\"04_Structure Note/DEI・Empathy・ケア\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14472451
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.527449420322801,
+  "repelStrength": 12.963173448511,
+  "linkStrength": 0.91725392134576,
+  "linkDistance": 30,
+  "scale": 0.2356084602834008,
+  "close": true
+}
