@@ -1,0 +1,10 @@
+
+# Mac system files
+.DS_Store
+
+# Obsidian
+.obsidian/workspace
+.obsidian/workspace-mobile
+.obsidian/workspace.json
+.trash/
+.obsidian/cache
