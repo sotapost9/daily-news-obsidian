@@ -1,6 +1,6 @@
 {
   "apiKey": "AIzaSyAt43jIb2nBLKrIcQwTrcl0ajArYnHkMCU",
-  "chatModelName": "gemini-2.5-pro",
+  "chatModelName": "gemini-flash-latest",
   "summaryModelName": "gemini-flash-latest",
   "completionsModelName": "gemini-flash-lite-latest",
   "imageModelName": "gemini-2.5-flash-image",
@@ -13,7 +13,7 @@
   "initialBackoffDelay": 1000,
   "streamingEnabled": true,
   "modelDiscovery": {
-    "enabled": true,
+    "enabled": false,
     "autoUpdateInterval": 24,
     "lastUpdate": 1771124228024,
     "fallbackToStatic": true
@@ -22,7 +22,7 @@
   "temperature": 0.7,
   "topP": 1,
   "stopOnToolError": true,
-  "loopDetectionEnabled": true,
+  "loopDetectionEnabled": false,
   "loopDetectionThreshold": 3,
   "loopDetectionTimeWindowSeconds": 30,
   "alwaysAllowReadWrite": false,
