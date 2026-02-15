@@ -25,7 +25,7 @@
   "loopDetectionEnabled": false,
   "loopDetectionThreshold": 3,
   "loopDetectionTimeWindowSeconds": 30,
-  "alwaysAllowReadWrite": false,
+  "alwaysAllowReadWrite": true,
   "hasSeenV4Welcome": true,
   "lastSeenVersion": "4.4.0",
   "ragIndexing": {
