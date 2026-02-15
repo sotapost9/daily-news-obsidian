@@ -14,5 +14,6 @@
   "dataview",
   "obsidian-tracker",
   "line-notes-sync",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-local-rest-api"
 ]
