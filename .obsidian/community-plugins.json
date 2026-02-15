@@ -15,5 +15,6 @@
   "obsidian-tracker",
   "line-notes-sync",
   "obsidian-git",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "gemini-scribe"
 ]
