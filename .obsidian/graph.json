@@ -146,9 +146,23 @@
         "a": 1,
         "rgb": 14472451
       }
+    },
+    {
+      "query": "path:07_News/SD  ",
+      "color": {
+        "a": 1,
+        "rgb": 5893143
+      }
+    },
+    {
+      "query": "path:07_News/DEI  ",
+      "color": {
+        "a": 1,
+        "rgb": 14472451
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.2,
   "nodeSizeMultiplier": 1,
@@ -158,6 +172,6 @@
   "repelStrength": 12.963173448511,
   "linkStrength": 0.91725392134576,
   "linkDistance": 30,
-  "scale": 0.2356084602834008,
-  "close": true
+  "scale": 0.23430834724968846,
+  "close": false
 }
