@@ -1,6 +1,6 @@
-# Unknown Category 最新記事レポート (2026-04-12)
+# 企業におけるメンタルヘルス (Corporate Mental Health, ニュース) 最新記事レポート (2026-04-12)
 
-
+#企業メンタルヘルス
 
 ## エラー
 記事の収集中にエラーが発生しました: [SlidingWindowOverflowError] SlidingWindowOverflowError
