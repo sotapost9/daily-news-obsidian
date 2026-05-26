@@ -8,3 +8,6 @@
 .obsidian/workspace.json
 .trash/
 .obsidian/cache
+
+# Plugin caches (not needed for sync)
+.smart-env/
