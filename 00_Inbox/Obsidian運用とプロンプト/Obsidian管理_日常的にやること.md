@@ -1,3 +1,0 @@
-- Fleetingの掃除
-- カテゴリごとに、FleetingとLiteratureからPErmanentへ。
-- クイックメモ：cmd+NでFleeting直下へ
