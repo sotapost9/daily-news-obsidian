@@ -1,0 +1,8 @@
+{
+  "templateHeading": "# タスク",
+  "deleteOnComplete": false,
+  "removeEmptyTodos": false,
+  "rolloverChildren": false,
+  "rolloverOnFileCreate": false,
+  "doneStatusMarkers": "xX-"
+}

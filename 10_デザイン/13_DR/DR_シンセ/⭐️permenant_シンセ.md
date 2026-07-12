@@ -1,0 +1,4 @@
+- インサイトは3-8個。3個以下はリサーチが不十分。8個より多いと批判不足
+	- https://note.com/ryokobiyama/n/nf44cfbf66bf5 
+- インサイトは人の根底の価値観を含んだ振る舞い。
+	- https://note.com/ryokobiyama/n/nf44cfbf66bf5

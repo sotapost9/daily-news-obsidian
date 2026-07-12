@@ -1,0 +1,2 @@
+- Figma makeならFigmaに精通していなくても使いこなせるかも
+- プロンプトはGPTと対話してから、Figma makeに渡す形

@@ -1,0 +1,120 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"JP_子育てインタビュー/⓪N1レポート\"",
+      "color": { "a": 1, "rgb": 1118481 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/①注目した発言・行動（Fact）/軸1\"",
+      "color": { "a": 1, "rgb": 16755370 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/②発言のグルーピング（Finding）\" file:Finding_軸1",
+      "color": { "a": 1, "rgb": 16733525 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/③インサイト導出（Insight）\" file:Insight_軸1",
+      "color": { "a": 1, "rgb": 13373713 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/①注目した発言・行動（Fact）/軸2\"",
+      "color": { "a": 1, "rgb": 11193599 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/②発言のグルーピング（Finding）\" file:Finding_軸2",
+      "color": { "a": 1, "rgb": 4491519 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/③インサイト導出（Insight）\" file:Insight_軸2",
+      "color": { "a": 1, "rgb": 17612 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/①注目した発言・行動（Fact）/軸3\"",
+      "color": { "a": 1, "rgb": 11206570 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/②発言のグルーピング（Finding）\" file:Finding_軸3",
+      "color": { "a": 1, "rgb": 4508740 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/③インサイト導出（Insight）\" file:Insight_軸3",
+      "color": { "a": 1, "rgb": 1140241 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/①注目した発言・行動（Fact）/軸4\"",
+      "color": { "a": 1, "rgb": 14527231 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/②発言のグルーピング（Finding）\" file:Finding_軸4",
+      "color": { "a": 1, "rgb": 11158783 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/③インサイト導出（Insight）\" file:Insight_軸4",
+      "color": { "a": 1, "rgb": 6684876 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/①注目した発言・行動（Fact）/軸5\"",
+      "color": { "a": 1, "rgb": 16768426 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/②発言のグルーピング（Finding）\" file:Finding_軸5",
+      "color": { "a": 1, "rgb": 16755251 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/③インサイト導出（Insight）\" file:Insight_軸5",
+      "color": { "a": 1, "rgb": 13395456 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/①注目した発言・行動（Fact）/軸6\"",
+      "color": { "a": 1, "rgb": 11206638 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/②発言のグルーピング（Finding）\" file:Finding_軸6",
+      "color": { "a": 1, "rgb": 2280618 }
+    },
+    {
+      "query": "path:\"JP_子育てインタビュー/③インサイト導出（Insight）\" file:Insight_軸6",
+      "color": { "a": 1, "rgb": 30549 }
+    },
+    {
+      "query": "(path:\"01_Fleeting Note/SD・BD\" OR path:\"02_Literature Note/SD・BD\" OR path:\"03_Permanent Note/SD・BD\" OR path:\"04_Structure Note/SD・BD\" OR path:10_デザイン OR path:07_News/SD OR path:07_News/Service_Design OR path:07_News/Business_Design OR path:07_News/Design_Research OR path:07_News/Strategic_Design OR path:07_News/Design_Thinking OR path:07_News/UX_Design OR path:07_News/Human_Centered_Design OR path:07_News/Design_Education OR path:07_News/Healthcare_Design OR path:07_News/Labor_Design OR path:\"07_News/ストラテジックデザイン\" OR path:\"07_News/デザインリサーチ\" OR path:\"07_News/ビジネスデザイン\")",
+      "color": {
+        "a": 1,
+        "rgb": 5025616
+      }
+    },
+    {
+      "query": "(path:\"01_Fleeting Note/ロジカルシンキング\" OR path:\"02_Literature Note/ロジカルシンキング\" OR path:\"03_Permanent Note/SD・BD/SD_ロジカルシンキング\" OR path:\"04_Structure Note/ロジカルシンキング\" OR path:\"20_ロジカルシンキング・ビジネス・仕事術\" OR path:07_News/Business OR path:07_News/Trend OR path:07_News/Consumer_Trend OR path:07_News/Service_Design_Business_Trend)",
+      "color": {
+        "a": 1,
+        "rgb": 10181046
+      }
+    },
+    {
+      "query": "(path:\"01_Fleeting Note/DEI・Empathy・ケア\" OR path:\"01_Fleeting Note/哲学・思想\" OR path:\"01_Fleeting Note/UnD運営\" OR path:\"02_Literature Note/DEI・Empathy・ケア\" OR path:\"02_Literature Note/UnD\" OR path:\"03_Permanent Note/DEI・Empathy・ケア\" OR path:\"04_Structure Note/DEI・Empathy・ケア\" OR path:\"04_Structure Note/UnD運営\" OR path:\"30_DEI・I&D・Empathy\" OR path:\"40_UnD・哲学\" OR path:07_News/DEI OR path:07_News/DEI_Minority_Insight OR path:07_News/Mental_Health_Welfare OR path:07_News/Tojisha_Kenkyu OR path:\"07_News/当事者研究\" OR path:\"07_News/精神保健福祉\")",
+      "color": {
+        "a": 1,
+        "rgb": 15844367
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.478688338258695,
+  "repelStrength": 17.5812684701068,
+  "linkStrength": 0.942600591043419,
+  "linkDistance": 259,
+  "scale": 0.028438507291030896,
+  "close": true
+}
