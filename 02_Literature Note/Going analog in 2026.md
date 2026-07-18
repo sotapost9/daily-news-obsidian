@@ -8,6 +8,13 @@ created: 2026-02-02
 description: "Going analog in 2026 Can UX coexist with analog living? 2026’s trend, positioned as a cure for brainrot, is a return to analog: analog technologies like CD and MP3 players, analog experiences like …"
 tags:
   - "clippings"
+analogy_lenses:
+  - lens: ビジネスモデルの型③体験・チャネル・広告
+    label: 体験経済型 × アテンションエコノミーへの反動 — デジタル過飽和が「わざわざアナログ」という希少体験を価値化する
+    rationale: Pine & Gilmore の体験経済論は「体験差別化」を説くが、デジタルが当たり前になった環境では逆にアナログ体験の希少性と手間が差別化要素になる。アテンションエコノミーの過密が、「低刺激・ゆっくり」という対抗体験への需要を生む構造
+  - lens: 行動経済学
+    label: デフォルト効果の意識的逆転 — 「デジタルがデフォルト」という環境への抵抗行動
+    rationale: デジタルツールが環境のデフォルトになることで、アナログ選択には意識的なコストがかかる。2026年のアナログ回帰トレンドは、そのデフォルトを意識的に拒否する行動であり、ナッジ理論が言う「デフォルト変更」の個人版として機能している
 ---
 [Sitemap](https://uxdesign.cc/sitemap/sitemap.xml)## [UX Collective](https://uxdesign.cc/?source=post_page---publication_nav-138adf9c44c-64a007180d4c---------------------------------------)
 
