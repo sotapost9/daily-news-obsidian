@@ -9,79 +9,136 @@
   "colorGroups": [
     {
       "query": "path:\"JP_子育てインタビュー/⓪N1レポート\"",
-      "color": { "a": 1, "rgb": 1118481 }
+      "color": {
+        "a": 1,
+        "rgb": 1118481
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/①注目した発言・行動（Fact）/軸1\"",
-      "color": { "a": 1, "rgb": 16755370 }
+      "color": {
+        "a": 1,
+        "rgb": 16755370
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/②発言のグルーピング（Finding）\" file:Finding_軸1",
-      "color": { "a": 1, "rgb": 16733525 }
+      "color": {
+        "a": 1,
+        "rgb": 16733525
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/③インサイト導出（Insight）\" file:Insight_軸1",
-      "color": { "a": 1, "rgb": 13373713 }
+      "color": {
+        "a": 1,
+        "rgb": 13373713
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/①注目した発言・行動（Fact）/軸2\"",
-      "color": { "a": 1, "rgb": 11193599 }
+      "color": {
+        "a": 1,
+        "rgb": 11193599
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/②発言のグルーピング（Finding）\" file:Finding_軸2",
-      "color": { "a": 1, "rgb": 4491519 }
+      "color": {
+        "a": 1,
+        "rgb": 4491519
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/③インサイト導出（Insight）\" file:Insight_軸2",
-      "color": { "a": 1, "rgb": 17612 }
+      "color": {
+        "a": 1,
+        "rgb": 17612
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/①注目した発言・行動（Fact）/軸3\"",
-      "color": { "a": 1, "rgb": 11206570 }
+      "color": {
+        "a": 1,
+        "rgb": 11206570
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/②発言のグルーピング（Finding）\" file:Finding_軸3",
-      "color": { "a": 1, "rgb": 4508740 }
+      "color": {
+        "a": 1,
+        "rgb": 4508740
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/③インサイト導出（Insight）\" file:Insight_軸3",
-      "color": { "a": 1, "rgb": 1140241 }
+      "color": {
+        "a": 1,
+        "rgb": 1140241
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/①注目した発言・行動（Fact）/軸4\"",
-      "color": { "a": 1, "rgb": 14527231 }
+      "color": {
+        "a": 1,
+        "rgb": 14527231
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/②発言のグルーピング（Finding）\" file:Finding_軸4",
-      "color": { "a": 1, "rgb": 11158783 }
+      "color": {
+        "a": 1,
+        "rgb": 11158783
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/③インサイト導出（Insight）\" file:Insight_軸4",
-      "color": { "a": 1, "rgb": 6684876 }
+      "color": {
+        "a": 1,
+        "rgb": 6684876
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/①注目した発言・行動（Fact）/軸5\"",
-      "color": { "a": 1, "rgb": 16768426 }
+      "color": {
+        "a": 1,
+        "rgb": 16768426
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/②発言のグルーピング（Finding）\" file:Finding_軸5",
-      "color": { "a": 1, "rgb": 16755251 }
+      "color": {
+        "a": 1,
+        "rgb": 16755251
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/③インサイト導出（Insight）\" file:Insight_軸5",
-      "color": { "a": 1, "rgb": 13395456 }
+      "color": {
+        "a": 1,
+        "rgb": 13395456
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/①注目した発言・行動（Fact）/軸6\"",
-      "color": { "a": 1, "rgb": 11206638 }
+      "color": {
+        "a": 1,
+        "rgb": 11206638
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/②発言のグルーピング（Finding）\" file:Finding_軸6",
-      "color": { "a": 1, "rgb": 2280618 }
+      "color": {
+        "a": 1,
+        "rgb": 2280618
+      }
     },
     {
       "query": "path:\"JP_子育てインタビュー/③インサイト導出（Insight）\" file:Insight_軸6",
-      "color": { "a": 1, "rgb": 30549 }
+      "color": {
+        "a": 1,
+        "rgb": 30549
+      }
     },
     {
       "query": "(path:\"01_Fleeting Note/SD・BD\" OR path:\"02_Literature Note/SD・BD\" OR path:\"03_Permanent Note/SD・BD\" OR path:\"04_Structure Note/SD・BD\" OR path:10_デザイン OR path:07_News/SD OR path:07_News/Service_Design OR path:07_News/Business_Design OR path:07_News/Design_Research OR path:07_News/Strategic_Design OR path:07_News/Design_Thinking OR path:07_News/UX_Design OR path:07_News/Human_Centered_Design OR path:07_News/Design_Education OR path:07_News/Healthcare_Design OR path:07_News/Labor_Design OR path:\"07_News/ストラテジックデザイン\" OR path:\"07_News/デザインリサーチ\" OR path:\"07_News/ビジネスデザイン\")",
@@ -115,6 +172,6 @@
   "repelStrength": 17.5812684701068,
   "linkStrength": 0.942600591043419,
   "linkDistance": 259,
-  "scale": 0.028438507291030896,
+  "scale": 0.01962566978642908,
   "close": true
 }
