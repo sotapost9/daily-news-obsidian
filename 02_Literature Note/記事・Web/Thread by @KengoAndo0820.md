@@ -1,17 +1,18 @@
 ---
-title: "Thread by @KengoAndo0820"
-source: "https://x.com/KengoAndo0820/status/1977573168308277366"
+title: Thread by @KengoAndo0820
+source: https://x.com/KengoAndo0820/status/1977573168308277366
 author:
-  - "[[@KengoAndo0820]]"
+- '[[@KengoAndo0820]]'
 published: 2025-10-13
 created: 2025-10-14
-description:
+description: null
 tags:
-  - "clippings"
+- clippings
+- lens/ビジネスモデル②市場関係構造
 analogy_lenses:
-  - lens: ビジネスモデルの型②市場・関係構造
-    label: クリエイティブファースト × バリューチェーン全体設計 — 高品質のクリエイティブを収益化するには上流から下流まで自社でコントロールする
-    rationale: 鬼滅の刃もNOT A HOTELも、既存業界の流通構造に乗ると必ずどこかでクリエイティブが妥協させられる問題を、バリューチェーンをゼロベースで引き直すことで回避している。「良いものを作る」と「収益化する」を両立するには、間に挟まる利害関係者の数を最小化する設計が前提になる
+- lens: ビジネスモデル②市場・関係構造
+  label: クリエイティブファースト × バリューチェーン全体設計 — 高品質のクリエイティブを収益化するには上流から下流まで自社でコントロールする
+  rationale: 鬼滅の刃もNOT A HOTELも、既存業界の流通構造に乗ると必ずどこかでクリエイティブが妥協させられる問題を、バリューチェーンをゼロベースで引き直すことで回避している。「良いものを作る」と「収益化する」を両立するには、間に挟まる利害関係者の数を最小化する設計が前提になる
 ---
 **安藤研吾** @KengoAndo0820 [2025-10-13](https://x.com/KengoAndo0820/status/1977573168308277366)
 
