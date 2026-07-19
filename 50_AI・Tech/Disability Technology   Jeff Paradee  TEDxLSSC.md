@@ -1,13 +1,20 @@
 ---
-title: "Disability Technology  | Jeff Paradee | TEDxLSSC"
-source: "https://www.youtube.com/watch?v=eFkhFxJZvho"
+title: Disability Technology  | Jeff Paradee | TEDxLSSC
+source: https://www.youtube.com/watch?v=eFkhFxJZvho
 author:
-  - "[[@kyleprotho]]"
+- '[[@kyleprotho]]'
 published: 2017-11-29
 created: 2025-12-01
-description: "In his talk, Jeff discusses ways in which access to the right technology can change the lives of those living with physical disabilities.   Jeff Paradee Jr.,..."
+description: In his talk, Jeff discusses ways in which access to the right technology
+  can change the lives of those living with physical disabilities.   Jeff Paradee
+  Jr.,...
 tags:
-  - "clippings"
+- clippings
+- lens/エンパシー共感
+analogy_lenses:
+- lens: エンパシー・共感
+  label: Appleのアクセシビリティへの本気が当事者の一生の選択を変える
+  rationale: AppleのアクセシビリティへのコミットメントがWindowsよりMacを一生選ぶという強い感情的結びつきを生む。機能ではなく「私のことを本気で考えてくれている」という確信がブランドロイヤルティの核になる
 ---
 ![](https://www.youtube.com/watch?v=eFkhFxJZvho)
 -  アクセシビリティは「あったらいい」付加価値ではない。当事者にとっては世界との限りなく切実な繋がりを得たいという願いだ

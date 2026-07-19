@@ -1,13 +1,18 @@
 ---
-title: "スマート首輪Catlogで、見えない不調も元気も24時間の行動記録から見える | Catlog"
-source: "https://rabo.cat/catlog/pendant/?utm_source=facebook&utm_medium=display&utm_campaign=New_CV_ASC&utm_content=%E3%83%8B%E3%83%A3%E3%83%B3%E3%82%BA%E9%BA%A6%E3%81%95%E3%82%93_20250820&audience=new&utm_id=120223815670510452_v2_s06_e7340&utm_term=120224028268840452"
+title: スマート首輪Catlogで、見えない不調も元気も24時間の行動記録から見える | Catlog
+source: https://rabo.cat/catlog/pendant/?utm_source=facebook&utm_medium=display&utm_campaign=New_CV_ASC&utm_content=%E3%83%8B%E3%83%A3%E3%83%B3%E3%82%BA%E9%BA%A6%E3%81%95%E3%82%93_20250820&audience=new&utm_id=120223815670510452_v2_s06_e7340&utm_term=120224028268840452
 author:
-  - "[[@Catlog_RABO]]"
-published:
+- '[[@Catlog_RABO]]'
+published: null
 created: 2025-10-14
-description: "Catlog(キャトログ)は、猫様専用のスマート首輪です。愛猫の行動を24時間365日記録し、食欲や水分補給など、猫様の生活リズムに変化がないかスマホアプリでチェックできます。毎日の猫様の些細な変化も、Catlogが検知してアプリでお知らせします。"
+description: Catlog(キャトログ)は、猫様専用のスマート首輪です。愛猫の行動を24時間365日記録し、食欲や水分補給など、猫様の生活リズムに変化がないかスマホアプリでチェックできます。毎日の猫様の些細な変化も、Catlogが検知してアプリでお知らせします。
 tags:
-  - "clippings"
+- clippings
+- lens/サービスデザイン
+analogy_lenses:
+- lens: サービスデザイン
+  label: スマート首輪がペットの見えない不調を24時間可視化する
+  rationale: ペットは言葉で体調を伝えられないという根本的な問題に対し、行動記録の継続的センシングで「見えない変化」を捉える。人間に依存するのではなくデバイスが代わりに観察するという役割設計
 ---
 ![キャトログ Catlog 愛猫をかわいく見守り気づきにくい体調変化が分かる「スマート首輪」](https://rabo.cat/static/414f27314c0bc02601ee603027d6ef7c/7397c/PendantKvJP.webp)
 
