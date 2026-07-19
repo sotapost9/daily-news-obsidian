@@ -8,6 +8,10 @@ created: 2025-11-28
 description: "概要：元 Wondery COO の Jeanine Wright 氏が率いる Inception Point"
 tags:
   - "clippings"
+analogy_lenses:
+  - lens: ビジネスモデルの型①収益構造
+    label: 超低コスト × ロングテール量産型 — AI生成で損益分岐点を「20リスナー」まで下げる
+    rationale: 従来のポッドキャスト制作は人件費が高く大規模なリスナー獲得が前提だが、AI生成により1エピソード1ドル以下・8人運営・週3000本を実現。ニッチ市場を大量に攻略することで1コンテンツの損益分岐点が極限まで低くなるロングテール経済の極端な実装
 ---
 [Copy Link](https://thebridge.jp/#copy_link "Copy Link") [X](https://thebridge.jp/#x "X") [Facebook](https://thebridge.jp/#facebook "Facebook") [Threads](https://thebridge.jp/#threads "Threads") [LinkedIn](https://thebridge.jp/#linkedin "LinkedIn")
 
